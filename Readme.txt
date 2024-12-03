@@ -41,6 +41,7 @@ This project is a web-based application designed to assist users in managing veh
 - - - - Admin dashboard to manage system operations.
 - - - - Mechanic panel for task assignments and updates.
 - - - - Users can raise service requests and track their status.
+
 - Technology Stack
 - - - - Frontend: HTML, CSS, SCSS, JavaScript
 - - - - Backend: PHP
